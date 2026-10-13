@@ -36,3 +36,7 @@ fundamentals_gis_rs/week3/_drafts/
 # MNIST (baixado pelos notebooks de Deep Learning)
 ml-dl/data/MNIST/
 ml-dl/logs/
+
+# dados e logs dos notebooks de Deep Learning
+deep-learning/data/MNIST/
+deep-learning/logs/
